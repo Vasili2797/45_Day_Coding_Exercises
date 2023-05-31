@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nashv
+ *
+ */
+module PrintEachDigitFromScan {
+}
