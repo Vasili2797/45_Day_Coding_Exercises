@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author nashv
- *
- */
-module AdminOrGuest {
-}
